@@ -1,6 +1,10 @@
 # 0inicis
 Crear un repositori
 
+## Activitats
+* [Llocweb] ( https://gemadel.github.io/1llocweb/)
+* [cmyk]
+
 ## Páginas classe
 *  .[Página clase 2GP]( https://arquesm.github.io/2GP)
 * .[Lenguaje  etiquietes github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
