@@ -2,8 +2,8 @@
 Crear un repositori
 
 ## Activitats
-* [Llocweb] ( https://gemadel.github.io/1llocweb/)
-* [cmyk]
+* [1 LlocWeb](https://gemadel.github.io/1llocweb/)
+* [2 CMYK]
 
 ## Páginas classe
 *  .[Página clase 2GP]( https://arquesm.github.io/2GP)
