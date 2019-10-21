@@ -3,7 +3,7 @@ Crear un repositori
 
 ## Activitats
 * [1 LlocWeb](https://gemadel.github.io/1llocweb/)
-* [2 CMYK]
+* [2 CMYK](https://gemadel.github.io/2cmyk/)
 
 ## Páginas classe
 *  .[Página clase 2GP]( https://arquesm.github.io/2GP)
