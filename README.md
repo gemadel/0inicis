@@ -5,7 +5,7 @@ Crear un repositori
 * [1 LlocWeb](https://gemadel.github.io/1llocweb/)
 * [2 CMYK](https://gemadel.github.io/2cmyk/)
 * [3 broom](https://gemadel.github.io/3broom/)
-
+* [4 maquetación]( https://gemadel.github.io/4-maquetacion/)
 ## Páginas classe
 *  .[Página clase 2GP]( https://arquesm.github.io/2GP)
 * .[Lenguaje  etiquietes github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
