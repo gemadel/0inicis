@@ -6,6 +6,9 @@ Crear un repositori
 * [2 CMYK](https://gemadel.github.io/2cmyk/)
 * [3 broom](https://gemadel.github.io/3broom/)
 * [4 maquetación]( https://gemadel.github.io/4-maquetacion/)
+* [5  tarjetas](https://gemadel.github.io/5-tarjetas/)
+* [6 landingpage ](https://gemadel.github.io/6-landingpage/)
+* [7 grid moma]( https://gemadel.github.io/7-grid-moma/)
 ## Páginas classe
 *  .[Página clase 2GP]( https://arquesm.github.io/2GP)
 * .[Lenguaje  etiquietes github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
