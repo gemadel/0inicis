@@ -8,8 +8,8 @@ Crear un repositori
 * [4 maquetación]( https://gemadel.github.io/4-maquetacion/)
 * [5  tarjetas](https://gemadel.github.io/5-tarjetas/)
 * [6 landingpage ](https://gemadel.github.io/6-landingpage/)
-* [7 grid moma]( https://gemadel.github.io/7-grid-moma
-* [8 minimalisimo shop] ( https://gemadel.github.io/8-gridavea-miminshop/)
+* [7 grid moma]( https://gemadel.github.io/7-grid-moma)
+* [8 mininimalisimo shop]( https://gemadel.github.io/8-gridavea-miminshop/)
 ## Páginas classe
 *  .[Página clase 2GP]( https://arquesm.github.io/2GP)
 * .[Lenguaje  etiquietes github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
