@@ -11,6 +11,7 @@ Crear un repositori
 * [7 grid moma]( https://gemadel.github.io/7-grid-moma)
 * [8 mininimalisimo shop]( https://gemadel.github.io/8-gridavea-miminshop/)
 * [9 examen](https://gemadel.github.io/examen/)
+* [14 ducumento js](https://gemadel.github.io/14_document_js/)
 ## Páginas classe
 *  .[Página clase 2GP]( https://arquesm.github.io/2GP)
 * .[Lenguaje  etiquietes github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
