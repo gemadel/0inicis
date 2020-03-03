@@ -16,7 +16,7 @@ Crear un repositori
 * [14 ducumento js](https://gemadel.github.io/14_document_js/)
 * [15 js](https://gemadel.github.io/15_js/)
 * [16  Porfolio]( https://gemadel.github.io/16_porfolio/)
-
+* [18 examen 2](https://gemadel.github.io/18_examen2/)
 
 ## Páginas classe
 *  .[Página clase 2GP]( https://arquesm.github.io/2GP)
